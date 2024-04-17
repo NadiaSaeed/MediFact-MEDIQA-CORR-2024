@@ -17,3 +17,6 @@ Run ["**TestMediFactPipeline.ipynb**"](./TestMediFactPipeline.ipynb) to check re
 Code in process!!!!!!
 
 [TO BE UPDATED]
+
+# Task Link
+https://sites.google.com/view/mediqa2024/mediqa-corr?authuser=0
