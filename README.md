@@ -1,4 +1,4 @@
-# [MediFact at MEDIQA-CORR 2024: Why AI Needs a Human Touch [[1]](#1)
+# MediFact at MEDIQA-CORR 2024: Why AI Needs a Human Touch [[1]](#1)
 
 <div>
     <img src="https://readme-typing-svg.demolab.com/?pause=1&size=50&color=f75c7e&center=True&width=1200&height=120&vCenter=True&lines=MediFact-MediQA-CORR-2024,;Click+the+⭐+Star+please .;Any+questions+can+be+asked+in+Issue." />
@@ -23,5 +23,5 @@ https://sites.google.com/view/mediqa2024/mediqa-corr?authuser=0
 
 ## References
 <a id="1">[1]</a> 
-Nadia Saeed. 2024. MediFact at MEDIQA-CORR 2024: Why AI Needs a Human Touch. In Proceedings of the 6th Clinical Natural Language Processing Workshop, pages 346–352, Mexico City, Mexico. Association for Computational Linguistics.
+Nadia Saeed. 2024. MediFact at MEDIQA-CORR 2024: Why AI Needs a Human Touch. In Proceedings of the 6th Clinical Natural Language Processing Workshop, pages 346–352, Mexico City, Mexico. Association for Computational Linguistics. https://aclanthology.org/2024.clinicalnlp-1.32
 
